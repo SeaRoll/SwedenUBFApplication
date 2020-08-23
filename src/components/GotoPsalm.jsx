@@ -59,7 +59,7 @@ function GotoPsalm(props) {
 
             <ul style={{marginTop: "40px"}}>
                 {filteredPsalms.map(x => {
-                    return (<li><a href={"/psalm/"+x.id}>{x.title}</a></li>);
+                    return (<li><a href={"/psalm/"+x.id}>{x.title}</a><a className="text-secondary">{" " + x.verses[0].substring(3, 24) + "..."}</a></li>);
                 })}
             </ul>
         </div>
