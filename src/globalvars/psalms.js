@@ -175,6 +175,60 @@ const psalms = [
             "2. Döden förlorat sitt välde,\nudden bröt Jesus utav.\nSegern på Golgata gällde\nlika för kung och för slav.\nNu med all oro och smärta\nkastar jag mig i hans famn,\nöppet står Frälsarens hjärta,\ndär är den fridsälla hamn.\nEvighetsmorgonen lyfter\nskymmande slöjan utav,\nhoppet i åskådning bytes,\ntvivlen där finner sin grav.",
             "3. Frestelser möter på färden,\nmycket syns gå mig emot,\nvägen är törnig i världen,\nsargad blir ofta min fot.\nMen när på Sion jag tänker\nsättes mitt hjärta i brand,\nglädje och kraft det mig skänker,\nsnart når jag himmelens land.\nEvighetsmorgonen lyfter\nskymmande slöjan utav,\nhoppet i åskådning bytes,\ntvivlen där finner sin grav."
         ]
+    },
+    {
+        id: 327,
+        title: "Psalm 327",
+        verses: [
+            "1. All ära till Gud som oss Sonen har sänt\nOch ljuset från himlen på jorden har tänt\nHan kom och mot mörkret han segrande stred\nVår synd på sig tog när på korset han led\nPris ske Gud pris ske Gud Sången stiger mot höjd\nPris ske Gud pris ske Gud Hjärtat sjunger av fröjd\nO sprid till all världen vår Frälsares bud\nAtt nåd och förlåtelse finnes hos Gud",
+            "2. En fullkomlig frälsning vi får i hans namn\nOch öppen står alltid vår Frälsares famn\nHan vägen har banat som vi har att gå\nOm himlarnas rike en gång vi skall nå\nPris ske Gud pris ske Gud Sången stiger mot höjd\nPris ske Gud pris ske Gud Hjärtat sjunger av fröjd\nO sprid till all världen vår Frälsares bud\nAtt nåd och förlåtelse finnes hos Gud",
+            "3. Han lär oss att leva han ger oss allt gott\nDen djupaste glädjen av honom vi fått\nEn skönare hyllning vi där honom ger\nNär Kristus vår konung vi jublande ser\nPris ske Gud pris ske Gud Sången stiger mot höjd\nPris ske Gud pris ske Gud Hjärtat sjunger av fröjd\nO sprid till all världen vår Frälsares bud\nAtt nåd och förlåtelse finnes hos Gud"
+        ]
+    },
+    {
+        id: 329,
+        title: "Psalm 329",
+        verses: [
+            "1. Gud tillhör äran Sjung halleluja\nJesus är uppstånden fri från död och grav\nTemplets förlåt rämnat vägen ligger fri\nHeligt rum är öppet mot vår värld vårt liv\nGud tillhör äran Sjung halleluja\nJesus är uppstånden fri från död och grav",
+            "2. Du är oss nära varför rädas då?\nVar finns nu de makter som kan skilja oss?\nVi har samme Fader, samma hem är vårt\nDu som är vår glädje världens enda hopp\nGud tillhör äran Sjung halleluja\nJesus är uppstånden fri från död och grav",
+            "3. Se världen öppnas gränslöst är vårt liv\nEvigheten börjar i vår egen tid\nGlädjen föds ur tårar ur vårt tvivel tro\nNere i de djupa mörkren ljuset bor\nGud tillhör äran Sjung halleluja\nJesus är uppstånden fri från död och grav"
+        ]
+    },
+    {
+        id: 337,
+        title: "Psalm 337",
+        verses: [
+            "1. Jublen, I himlar, I änglar, lovsjungen i körer.\nSjungen för Herren, som jorden och himlen tillhörer.\nGud bland oss här\nnu i sin kärlek är när,\nsyndarn till frälsning han förer.",
+            "2. Jublen, I himlar, lovsjungen, I släkten på jorden.\nKristus är kommen och världens förlossare vorden.\nO vilken fröjd\nhär och i himlarnas höjd,\nHerden sig offrar för hjorden.",
+            "3. O vilket under, hur djupt sig den Högste vill böja.\nO vilken kärlek och nåd sig i gudomen röja.\nGud blir ett barn,\noss att ur djävulens garn\nfrälsa och till sig upphöja.",
+            "4. Konungars konung, nu mänska för syndare vorden,\ndig vill jag följa, dig lyda och tjäna på jorden,\ntills jag med fröjd\nprisar i himmelens höjd\ndig bland den friköpta hjorden."
+        ]
+    },
+    {
+        id: 361,
+        title: "Psalm 361",
+        verses: [
+            "1. Guds kärlek är det största\nsom jord och himmel har\nHans kärlek är det första\nDen före allting var\nDess djup kan ingen mäta\nDess höjd kan ingen nå\nNär allting här försvinner\nGuds kärlek skall bestå",
+            "2. Oss Jesu död bevisar\nGuds kärleksfulla råd\nOch mänskoskaror prisar\nhans underbara nåd\nGuds kärlek är en källa\nav liv och godhet full\nVars rika flöden välla\nför varje mänskas skull",
+            "3. En mäktig lovsång klingar\nkring Guds och Lammets tron\nDär frälsta skaror bringar\nsin hyllning till Guds Son\nOch hela himlen svarar\ni ändlöst återljud\nAtt kärlek evigt varar\nty kärleken är Gud"
+        ]
+    },
+    {
+        id: 416,
+        title: "Psalm 416",
+        verses: [
+            "1. Herre tag du in mitt sinne\nFyll det med din nåd o Gud\nGöm ditt ord uti mitt hjärta\nOch förnim mitt böneljud\nTryck på mig din egen stämpel\nStänk mig med ditt dyra blod\nGör mitt hjärta till en lustgård\nVattnad utav livets flod",
+            "2. Låt mig som Maria sitta\nStilla ned vid Mästarns fot\nLär mig helt din vilja lyda\nLär mig lida utan knot\nHelt för Jesus vill jag leva\nVad är världens fröjd för den\nSom är kallad till att ärva\nEvigt liv i himmelen"
+        ]
+    },
+    {
+        id: 420,
+        title: "Psalm 420",
+        verses: [
+            "1. Jag följer dig Jesus\nDen väg du har gått\nOändlig är nåden\noch friden jag fått\nMitt hjärta du renat\nDess oro har flytt\nJag tackar dig Herre\natt allt blivit nytt",
+            "2. I dopet till Kristus\nmed dig har jag dött\nMed dig har jag uppstått \nDin härlighet mött\nNu vill jag bekänna \nvad du för mig är\nOch ständigt, det vet jag, \ndin kärlek mig bär",
+            "3. I dig har jag funnit \nden tryggaste hamn\nO giv, att jag aldrig \nförnekar ditt namn\nJag troget vill följa \ni Frälsarens spår \nTills målet jag hunnit \noch himlen jag når"
+        ]
     }
 
 ];
