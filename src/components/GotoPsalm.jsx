@@ -6,7 +6,7 @@ import psalms from "../globalvars/psalms";
     GotoPsalm
     ----------
     Loads Psalm Search Form by number
-    TODO: Make it look more appealing
+    TODO: Make it look more appealing, Sorting program by ID?
 */
 function GotoPsalm(props) {
 

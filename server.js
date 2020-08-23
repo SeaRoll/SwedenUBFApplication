@@ -1,3 +1,5 @@
+// Got from https://stackoverflow.com/questions/60846916/react-app-runs-locally-but-crashes-with-error-code-h10-on-heroku
+
 const express = require('express');
 const path = require('path');
 const app = express();
