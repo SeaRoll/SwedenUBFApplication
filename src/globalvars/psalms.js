@@ -1,5 +1,27 @@
 const psalms = [
     {
+        id: 3,
+        title: "Psalm 3",
+        verses: [
+            "1. Helig, helig, helig, Herre Gud allsmäktig\nNär den nya dagen gryr vår lovsång till dig går\nHelig, helig, helig, nådefull och mäktig\nDig vi vill tillbedja, Gud och Fader vår",
+            "2. Helig, helig, helig, sjunga helgon alla,\nsänka sina gyllne kronor för din härlighet.\nNed för dig keruber och serafer falla.\nDu var och är och blir i evighet.",
+            "3. Helig, helig, helig, hög och otillgänglig\när din glans din klara som ej syndigt öga ser.\nEvig är din nåd din kärlek oförgänglig.\nAllgod till stoftets barn Du skådar ner.",
+            "4. Helig, helig, helig, Herre Gud allsmäktig!\nÖver himlar, jord och hav ditt herravälde når.\nHelig, helig, helig nådefull och mäktig\nDig vi tillbedja Gud och Fader vår."
+        ]
+    },
+    {
+        id: 11,
+        title: "Psalm 11",
+        verses: [
+            "1. O store Gud, när jag den värld beskådar\nsom du har skapat med ditt allmaktsord,\nhur där din visdom väver livets trådar\noch alla väsen mättas vid ditt bord\n//: då brister själen ut i lovsångsljud:\no store Gud, o store Gud ://",
+            "2. När jag hör åskans röst och stormar brusa\noch blixtens klingor springa fram ur skyn,\nnär regnets kalla, friska skurar susa\noch löftets båge glänser för min syn\n//: då brister själen ut i lovsångsljud:\no store Gud, o store Gud ://",
+            "3. När sommarvinden susar över fälten,\nnär blommor dofta invid källans strand,\nnär trastar drilla i de gröna tälten\nvid furuskogens tysta, dunkla rand,\n//: då brister själen ut i lovsångsljud:\no store Gud, o store Gud ://",
+            "4. När jag i Bibeln skådar alla under\nsom Herren gjort sen förste Adams tid,\nhur nådefull han varit alla stunder\noch hjälpt sitt folk ur livets synd och strid,\n//: då brister själen ut i lovsångsljud:\no store Gud, o store Gud ://",
+            "5. När tryckt av synd och skuld jag faller neder\nvid Herrens fot och ber om nåd och frid,\noch han min själ på rätta vägen leder\noch frälsar mig från all min synd och strid,\n//: då brister själen ut i lovsångsljud:\no store Gud, o store Gud ://",
+            "6. När en gång alla tidens höljen falla\noch jag får skåda det jag nu får tro,\noch evighetens klara klockor kalla\nmin frälsta ande till dess sabbatsro\n//: då brister själen ut i lovsångsljud:\nTack, gode Gud, tack, gode Gud! ://"   
+        ]
+    },
+    {
         id: 15,
         title: "Psalm 15",
         verses: [
@@ -26,6 +48,16 @@ const psalms = [
             "2. Jesus, Guds Son, levde och dog\nför alla, för oss, lever i dag,\nja, han är här, ja, han är här.\nHerren vår Gud vill vi tacka.\nHerre, vi tackar dig. Herre, vi prisar dig.\nHerre, vi sjunger ditt heliga namn.",
             "3. Anden, vår tröst, levande, varm\noch helig och stark, talar om Gud\nstöder och bär dag efter dag.\nHerren, vår Gud vill vi tacka.\nHerre, vi tackar dig. Herre, vi prisar dig.\nHerre, vi sjunger ditt heliga namn."
         ]
+    },
+    {
+        id: 48,
+        title: "Psalm 48",
+        verses: [
+            "1. Vilken vän vi har i Jesus,\ntrofast, kärleksfull och god!\nNär vi frestas, när vi prövas,\nvill han ge oss kraft och mod.\nOfta tyngs vi ner av oro,\nglömmer att vi har en vän\nsom har lovat vara med oss,\nhjälpa om och om igen.",
+            "2. Har du sorger och bekymmer,\när du modlös, trött och svag,\nJesus hjälper dig att bära\ndina bördor dag för dag.\nHan som gråtit våra tårar\nser vår ångest och vår nöd.\nDen som sörjer vill han trösta,\nden som vacklar ger han stöd.",
+            "3. Är du bitter och besviken,\nhar ditt hjärta djupa sår,\nsäg till Jesus vad du känner,\nvåga tro att han förstår.\nHan som bar vår synd och plåga\ni sin egen kropp en gång\nälskar oss och ger oss vila,\ntänder hopp och föder sång."   
+        ],
+        tag: "uppståndelse"
     },
     {
         id: 249,
