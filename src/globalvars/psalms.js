@@ -22,13 +22,22 @@ const psalms = [
         ]
     },
     {
+        id: 12,
+        title: "Psalm 12",
+        verses: [
+            "1. Brist ut, min själ, i lovsångs ljud\nMed fröjdfullt harposlag\nFör all den nåd du får av Gud\nPå denna glädjens dag.\nDin vinge lyft mot himlens höjd\nMed glatt och ödmjukt mod.\nStäm in uti de sällas fröjd,\nSom sjunga: Gud är god.",
+            "2. Ja, Gud är kärlek, endast han\nTill vart betungat bröst\nDe rätta orden tala kan,\nSom skänka liv och tröst.\nÅt syndare till salighet\nHan gav sin Son, sitt ord,\nOch ännu hans barmhärtighet\nOss dukar nådens bord.",
+            "3. Ja, Gud är kärlek, sprid det ut.\nDu återlösta hop,\nAtt alla jordens folk till slut\nMå höja jubelrop.\nLär oss, o Gud, ditt ord i dag\nMed lydnad taga mot\nOch tjäna dig med välbehag,\nO Herre Sebaot."
+        ]
+    },
+    {
         id: 15,
         title: "Psalm 15",
         verses: [
-            "1. Halleluja! Sjung om Jesus, han är den som spiran bär.\nHalleluja! Hans är makten, hans allena segern är.\nHör, hur sångerna från Sion brusar som en mäktig flod.\nJesus alla folk och stammar återlöste med sitt blod.",
-            "2. Halleluja! Sjung om Jesus, han är den som spiran bär.\nHalleluja! Hans är makten, hans allena segern är.\nHör, hur sångerna från Sion brusar som en mäktig flod.\nJesus alla folk och stammar återlöste med sitt blod.",
-            "3. Halleluja! Du som bjuder syndare till bords med dig!\nHalleluja! Öppnad famnen är för alla och för mig.\nÖver jordens vidd din förbön genom dag och natt oss når.\nBed för mig inför din Fader, du som vid hans sida står!",
-            "4. Halleluja! Konungarnas konung är du och förblir.\nHalleluja! Född av kvinna är du och du blev som vi.\nStor din härlighet i himlen, speglad över hav och jord;\nstörst när ner bland oss du stiger och oss mättar vid ditt bord."
+            "1. Halleluja! Sjung om Jesus,\nhan är den som spiran bär.\nHalleluja! Hans är makten,\nhans allena segern är.\nHör, hur sångerna från Sion brusar som en mäktig flod.\nJesus alla folk och stammar återlöste med sitt blod.",
+            "2. Halleluja! Sjung om Jesus,\nhan är den som spiran bär.\nHalleluja! Hans är makten,\nhans allena segern är.\nHör, hur sångerna från Sion brusar som en mäktig flod.\nJesus alla folk och stammar återlöste med sitt blod.",
+            "3. Halleluja! Du som bjuder\nsyndare till bords med dig!\nHalleluja! Öppnad famnen\när för alla och för mig.\nÖver jordens vidd din förbön genom dag och natt oss når.\nBed för mig inför din Fader, du som vid hans sida står!",
+            "4. Halleluja! Konungarnas\nkonung är du och förblir.\nHalleluja! Född av kvinna är\ndu och du blev som vi.\nStor din härlighet i himlen, speglad över hav och jord;\nstörst när ner bland oss du stiger och oss mättar vid ditt bord."
         ]
     },
     {
@@ -60,6 +69,77 @@ const psalms = [
         tag: "uppståndelse"
     },
     {
+        id: 114,
+        title: "Psalm 114",
+        verses: [
+            "1. Stilla natt, heliga natt,\nallt är frid, stjärnan blid\nskiner på barnet i stallets strå\noch de vakande fromma två.\nKristus till jorden är kommen,\noss är en Frälsare född.",
+            "2. Stora stund, heliga stund!\nÄnglars här slår sin rund\nkring de vakande herdars hjord,\nrymden ljuder av glädjens ord:\nKristus till jorden är kommen,\neder är Frälsaren född.",
+            "3. Stilla natt, heliga natt!\nMörkret flyr, dagen gryr.\nRäddningstimman för världen slår,\nnu begynner vårt jubelår.\nKristus till jorden är kommen,\noss är en Frälsare född."
+        ]
+    },
+    {
+        id: 122,
+        title: "Psalm 122",
+        verses: [
+            "1. Dagen är kommen!\nKärlek triumferar\nKom låt oss skynda till Betlehem\nHälsad av änglar,\nKrist är född till jorden\nO kom låt oss tillbedja,\nO kom låt oss tillbedja,\nO kom låt oss tillbedja\nvår Herre Krist",
+            "2. Gud av Gud Fader,\nljus av ljusens källa\nMäniskoson av Maria född\nSå Gud sin kärlek för all världen visar\nO kom låt oss tillbedja,\nO kom låt oss tillbedja,\nO kom låt oss tillbedja\nvår Herre Krist",
+            "3. Ordet blev kött och tog sin boning bland oss Kom till vår jord Kristus är hans namn Så Gud sig härlig för all världen visar\nO kom låt oss tillbedja,\nO kom låt oss tillbedja,\nO kom låt oss tillbedja\nvår Herre Krist",
+            "4. Sjung halleluja,\nsjung ni änglaskaror\nSjung alla helgon sjung jordens folk!\nLov tack och ära\nvare Gud i höjden!\nO kom låt oss tillbedja,\nO kom låt oss tillbedja,\nO kom låt oss tillbedja\nvår Herre Krist",
+            "5. Evige Fader,\nevig är din strålglans\nevigt är ljuset från Betlehem\nHär över barnet evig lyser glorian\nO kom låt oss tillbedja,\nO kom låt oss tillbedja,\nO kom låt oss tillbedja\nvår Herre Krist"
+        ]
+    },
+    {
+        id: 123,
+        title: "Psalm 123",
+        verses: [
+            "1. Lyss till änglasångens ord:\nGud är kommen till vår jord!\nNyfött barn vår konung är,\nfrid år männniskor han bär.\nFolk, stäm in i himlens kör\nmed en sång som aldrig dör!\nHan som fötts i Betlehem\när vår Frälsare och vän.\nLyss till änglasångens ord:\nGud är kommen till vår jord!",
+            "2. Han som tronat högt i skyn,\noåtkomlig för vår syn,\nblir ett barn i jungfruns famn,\nJesus Kristus är hans namn.\nNära kommer livets ord,\ntar gestalt på denna jord.\nMitt ibland oss bor det här,\nvisar oss vad kärlek är.\nLyss till änglasångens ord:\nGud är kommen till vår jord!",
+            "3. Barn och broder, Gud och man,\nfridens furste heter han,\nstillar oro, läker sår,\nlär oss bedja Fader vår,\ndelar all vår lust och nöd\nmellan födelse och död,\nmöter oss en gång på nytt\nnär en evig dag har grytt.\nLyss till änglasångens ord:\nGud är kommen till vår jord!"
+        ]
+    },
+    {
+        id: 128,
+        title: "Psalm 128",
+        verses: [
+            "1. Vid Betlehem en vinternatt\nomkring en eld sig herdar satt.\nTätt mörkret står kring deras hjord.\nDe först av alla hör änglarnas ord:\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
+            "2. En stjärna klar, som förr ej fanns,\nur skyn går fram med nytänd glans.\nKring dal och berg gryr ljus från öst.\nPå nytt tändes hoppet i ängsliga bröst.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
+            "3. Tre vise män långt fjärran från\nvill hyllning ge en kungason.\nTre vise män har stjärnan sett.\nPå tecknet de tror hon leder dem rätt.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
+            "4. Se, stjärnans ljus går framför dem\ntill djurens stall vid Betlehem,\ndär färdens mål de når till sist:\nMaria och Josef med Frälsaren Krist.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
+            "5. För vise män som ridit långt\nsyns dörren låg och rummet trångt.\nMen vise män sig böjer ner\noch kungliga gåvor barnet de ger.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
+            "6. Ett barn är född till Guds behag.\nNu firar vi en glädjens dag\nmed fröjd och sång i Herrens hus\ni Betlehemsstjärnans eviga ljus.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehem stad!"
+        ]
+    },
+    {
+        id: 211,
+        title: "Psalm 211",
+        verses: [
+            "1. Jesus kär, gå ej förbi mig.\nLåt mig bönhörd bli.\nDå åt andra nåd du skänker,\ngå ej mig förbi.\nJesus, Jesus, låt mig bönhörd bli.\nOch då andra du välsignar,\ngå ej mig förbi.",
+            "2. Låt ock mig vid nådatronen\nfinna himmelsk ro.\nDå jag sjunker ned förkrossad,\nHerre, lär mig tro.\nJesus, Jesus, låt mig bönhörd bli.\nOch då andra du välsignar,\ngå ej mig förbi.",
+            "3. Blott på din förtjänst jag kommer\noch din nåd begär.\nIntet i mig själv jag äger,\nfräls mig som jag är.\nJesus, Jesus, låt mig bönhörd bli.\nOch då andra du välsignar,\ngå ej mig förbi.",
+            "4. Du är all min glädjekälla,\nmer än liv för mig.\nVad i himlen, vad på jorden\nhar jag utom dig!\nJesus, Jesus, låt mig bönhörd bli.\nOch då andra du välsignar,\ngå ej mig förbi."
+        ]
+    },
+    {
+        id: 222,
+        title: "Psalm 222",
+        verses: [
+            "1. Just som jag är, ej med ett strå\nav egen grund att bygga på,\nblott  därför att du dog för mig,\njag kommer, o Guds Lamm, till dig.",
+            "2. Just som jag är jag kommer nu,\nmitt hjärtas nöd den känner du:\nett fläckat liv, en sargad själ,\ndu vet det, o Guds Lamm så väl.",
+            "3. Ej egen kraft, ej makt, ej guld\nbetala kan min syndaskuld.\nDu dog för mig, det priset var.\nI dig, Guds Lamm, jag frälsning har.",
+            "4. Just som jag är tag mig emot.\nJag böjer mig invid din fot.\nBlott därför att du dog för mig,\njag kommer nu, Guds Lamm till dig."
+        ]
+    },
+    {
+        id: 231,
+        title: "Psalm 231",
+        verses: [
+            "1. Oändlig nåd mig Herren gav,\nOch än i dag mig ger.\nJag kommit hem, jag vilsen var,\nVar blind, men nu jag ser.",
+            "2. Guds nåd, jag skälvde inför den,\nMen sedan gav den ro,\nOch aldrig var den större än\nDen dag jag kom till tro.",
+            "3. Jag kom ur tvivel, mörka djup,\nUr van- makt och ur skam.\nDen nåd som bar mig intill\nNu skall bära ända fram.",
+            "4. Guds löften ger vår längtan svar,\nSom klippan är hans ord.\nEj bättre sköld och skydd jag\nHar i himmel och på jord."
+        ]
+    },
+    {
         id: 249,
         title: "Psalm 249",
         verses: [
@@ -85,6 +165,15 @@ const psalms = [
             "2. Tack för vad du uppenbarat!\nTack för vad jag ej förstår!\nTack för bön som du besvarat,\ntack för vad jag icke får!\nTack för livets hemligheter!\nTack för hjälp i nödens stund!\nTack för nåd som ingen mäter!\nTack för blodets fridsförbund!",
             "3. Tack för himmel blå i livet!\nTack för moln du strött därpå!\nTack för solljus, av dig givet!\nTack för mörkret likaså!\nTack för prövningar och strider!\nTack för hopp som uppfyllts väl!\nTack för dagen som framskrider!\nTack för hopp som slagit fel!",
             "4. Tack för rosorna bland vägen!\nTack för törnet ibland dem!\nTack för resta himlastegen!\nTack för evigt tryggat hem!\nTack för kors och tack för plåga!\nTack för himmelsk salighet!\nTack för stridens klara låga!\nTack för allt i evighet!"   
+        ]
+    },
+    {
+        id: 312,
+        title: "Psalm 312",
+        verses: [
+            "1. Städse på Sion jag tänker,\nhärliga, himmelska land!\nGlashavet gnistrar och blänker,\nsätter mitt hjärta i brand.\nBortom det glittrande ljuset\nskådar jag himmelens stad.\nSången från allfadershuset\nlyssnar jag till och blir glad.\nEvighetsmorgonen lyfter\nskymmande slöjan utav,\nhoppet i åskådning bytes,\ntvivlen där finner sin grav.",
+            "2. Döden förlorat sitt välde,\nudden bröt Jesus utav.\nSegern på Golgata gällde\nlika för kung och för slav.\nNu med all oro och smärta\nkastar jag mig i hans famn,\nöppet står Frälsarens hjärta,\ndär är den fridsälla hamn.\nEvighetsmorgonen lyfter\nskymmande slöjan utav,\nhoppet i åskådning bytes,\ntvivlen där finner sin grav.",
+            "3. Frestelser möter på färden,\nmycket syns gå mig emot,\nvägen är törnig i världen,\nsargad blir ofta min fot.\nMen när på Sion jag tänker\nsättes mitt hjärta i brand,\nglädje och kraft det mig skänker,\nsnart når jag himmelens land.\nEvighetsmorgonen lyfter\nskymmande slöjan utav,\nhoppet i åskådning bytes,\ntvivlen där finner sin grav."
         ]
     }
 
