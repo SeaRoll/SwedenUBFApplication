@@ -42,7 +42,7 @@ function GotoPsalm(props) {
     }
 
     return(
-        <div className="container" style={{marginTop: "40px"}} key="ContainerKey">
+        <div className="container" style={{marginTop: "40px", marginBottom: "80px"}} key="ContainerKey">
             <form key="formKey">
             <div className="form-group" key="inputGroup">
                 <h3>Search Psalm</h3>
