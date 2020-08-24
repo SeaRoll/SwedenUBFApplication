@@ -187,9 +187,22 @@ const psalms = [
         title: "Psalm 172",
         verses: [
             "1. De skall gå till den heliga staden,\nde skall samlas i himlen en gång.\nDe skall häpna gå in genom porten\ntill en okänd värld,\ntill ett annat liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
-            "2 De skall minnas den grönskande jorden\noch de somrar som blommade där.\nDe skall glömma det onda och svåra\ni en gammal värld,\ni ett svunnet liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny jublande sång.",
+            "2. De skall minnas den grönskande jorden\noch de somrar som blommade där.\nDe skall glömma det onda och svåra\ni en gammal värld,\ni ett svunnet liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny jublande sång.",
             "3. De skall möta de trofasta vänner\nsom de miste på jorden en gång.\nDe skall leka med änglar och helgon\ni Guds paradis.\nDe skall dansa där.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
             "4. De skall möta den levande Herren,\nde skall se honom sådan han är\noch förvandlas i ljus till hans likhet.\nDeras hopp han var,\nderas liv han är.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång."
+        ]
+    },
+    {
+        id: 189,
+        title: "Psalm 189",
+        verses: [
+            "1. Bliv kvar hos mig, se, dagens slut är när.\nBliv kvar, o Herre, snart är natten här.\nDå allting annat sviker och bedrar,\ndu ende trogne tröstare, bliv kvar.",
+            "2. Som drömmar flyr, så ilar våra år.\nAll jordens glädje likt en fläkt förgår.\nAllt hastar hän mot sin förvandling snar.\nDu är densamme, bliv du hos mig kvar.",
+            "3. Ej blott en blick, ett ord jag beder om.\nNej, som till Emmaus du fordom kom\noch sorgsna bröder tunga börda bar,\nkom, ej att gästa blott, bliv hos mig kvar.",
+            "4. Du ensam kan betvinga mörkrets hot\noch giva styrka att stå frestarn mot.\nVar stund din närhet jag av nöden har;\ni köld, i sol bliv, Herre, hos mig kvar.",
+            "5. Som späd jag lades i din kärleks famn\noch blev välsignad i ditt dyra namn.\nDu mig ej lämnat, fast på villors stig\njag ofta svek dig. O, bliv kvar hos mig.",
+            "6. Ej fruktar jag, då du är när i nåd.\nDå viker smärtan, aldrig fattas råd.\nAv gravens fasa ej ett spår är kvar,\noch döden mist sin udd, när dig jag har.",
+            "7. Ditt kors skall skina för min blick, när sist\njag somnar in, o Herre Jesus Krist.\nDå viker natten, morgon bräcker klar.\nI liv, i död bliv, Herre, hos mig kvar."
         ]
     },
     {
@@ -203,6 +216,15 @@ const psalms = [
         ]
     },
     {
+        id: 221,
+        title: "Psalm 221",
+        verses: [
+            "1. Skynda till Jesus, Frälsaren kär.\nSe i sitt ord han vägen oss lär,\noch mitt ibland oss står han ju här,\nropande vänligt: Kom!\nSaligt, saligt skall det bli förvisst,\nnär vi rena från all synd och brist\nalla tillsammans mötas till sist\nhemma hos Herren Gud.",
+            "2. Kom till mig alla! Ljuder hans röst.\nHan vill oss skänka glädje och tröst.\nMå han sitt tempel få i vårt bröst.\nLyssna, o själ, och kom!\nSaligt, saligt skall det bli förvisst,\nnär vi rena från all synd och brist\nalla tillsammans mötas till sist\nhemma hos Herren Gud.",
+            "3. Skynda till Jesus, tveka ej mer.\nÄnnu i kärlek han till dig ser.\nHör hur han bjuder, kallar och ber:\nDröj inte längre, Kom!\nSaligt, saligt skall det bli förvisst,\nnär vi rena från all synd och brist\nalla tillsammans mötas till sist\nhemma hos Herren Gud."
+        ]
+    },
+    {
         id: 222,
         title: "Psalm 222",
         verses: [
@@ -213,6 +235,16 @@ const psalms = [
         ]
     },
     {
+        id: 230,
+        title: "Psalm 230",
+        verses: [
+            "1. Klippa du som brast för mig, låt mig gömma mig i dig.\nVattnet, blodet som går fram från ditt hjärta, o Guds Lamm,\nlåt det bli en dubbel bot för min synd och lagens hot.",
+            "2. Om jag strävar aldrig så, räcker ej min kraft ändå\ntill att lyda helt din lag. Om jag gråter natt och dag,\nstår dock syndens fläckar kvar. Blott i dig jag frälsning har.",
+            "3. Intet kan jag giva dig. Till ditt kors jag sluter mig.\nNaken, dig om kläder ber, hjälplös, upp till nåden ser.\nJag förgås, om inte du i din källa tvår mig nu.",
+            "4. Vid vart flyktigt andedrag, och när jag skall dö en dag,\nnär till okänt land jag går, när inför din dom jag står:\nKlippa, du som brast för mig, låt mig gömma mig i dig."
+   ]
+    },
+    {
         id: 231,
         title: "Psalm 231",
         verses: [
@@ -220,6 +252,16 @@ const psalms = [
             "2. Guds nåd, jag skälvde inför den,\nMen sedan gav den ro,\nOch aldrig var den större än\nDen dag jag kom till tro.",
             "3. Jag kom ur tvivel, mörka djup,\nUr van- makt och ur skam.\nDen nåd som bar mig intill\nNu skall bära ända fram.",
             "4. Guds löften ger vår längtan svar,\nSom klippan är hans ord.\nEj bättre sköld och skydd jag\nHar i himmel och på jord."
+        ]
+    },
+    {
+        id: 235,
+        title: "Psalm 235",
+        verses: [
+            "1. Som en härlig gudomskälla,\nrik och mäktig, djup och stor,\när den kärlek, nåd och sanning\nsom i Jesu hjärta bor.\nHan har öppnat pärleporten,\nså att jag kan komma in.\nGenom blodet har han frälst mig\noch bevarat mig som sin.",
+            "2. En gång som en jagad duva,\nsom en sårad hjort jag var,\nmen ett djupt förkrossat hjärta\nJesus ej förskjutit har.\nHan har öppnat pärleporten,\nså att jag kan komma in.\nGenom blodet har han frälst mig\noch bevarat mig som sin.",
+            "3. Under över alla under!\nAllt förlät han mig en gång.\nOm hans underbara godhet\nglad jag sjunger nu min sång.\nHan har öppnat pärleporten,\nså att jag kan komma in.\nGenom blodet har han frälst mig\noch bevarat mig som sin.",
+            "4. När en gång i livets morgon\ntill den gyllne port jag når,\ndå för Jesu stora kärlek\nock för mig den öppen står.\nHan har öppnat pärleporten,\nså att jag kan komma in.\nGenom blodet har han frälst mig\noch bevarat mig som sin."
         ]
     },
     {
@@ -241,6 +283,15 @@ const psalms = [
         ]
     },
     {
+        id: 259,
+        title: "Psalm 259",
+        verses: [
+            "1. Saliga visshet, Jesus är min!\nHimmelens glädje fyller mitt sinn.\nFödd av hans Ande, ren i hans blod,\nfår jag förtröstan, styrka och mod.\nHan är min glädje, han är min sång,\nhonom jag prisar livsdagen lång.\nHan är min glädje, han är min sång\nhonom jag prisar livsdagen lång.",
+            "2. Allting jag uppgav, allting jag vann!\nStrålande morgon för mig upprann.\nInom mig hör jag änglar ger bud,\ntala om nåd och kärlek från Gud.\nHan är min glädje, han är min sång,\nhonom jag prisar livsdagen lång.\nHan är min glädje, han är min sång,\nhonom jag prisar livsdagen lång.",
+            "3. Saliga visshet, ljuvliga ro!\nNu jag hos Jesus vilar i tro,\nväntar vad intet öga har sett,\nväntar vad Herren själv har berett.\nHan är min glädje, han är min sång,\nhonom jag prisar livsdagen lång.\nHan är min glädje, han är min sång,\nhonom jag prisar livsdagen lång."
+        ]
+    },
+    {
         id: 261,
         title: "Psalm 261",
         verses: [
@@ -248,6 +299,72 @@ const psalms = [
             "2. Tack för vad du uppenbarat!\nTack för vad jag ej förstår!\nTack för bön som du besvarat,\ntack för vad jag icke får!\nTack för livets hemligheter!\nTack för hjälp i nödens stund!\nTack för nåd som ingen mäter!\nTack för blodets fridsförbund!",
             "3. Tack för himmel blå i livet!\nTack för moln du strött därpå!\nTack för solljus, av dig givet!\nTack för mörkret likaså!\nTack för prövningar och strider!\nTack för hopp som uppfyllts väl!\nTack för dagen som framskrider!\nTack för hopp som slagit fel!",
             "4. Tack för rosorna bland vägen!\nTack för törnet ibland dem!\nTack för resta himlastegen!\nTack för evigt tryggat hem!\nTack för kors och tack för plåga!\nTack för himmelsk salighet!\nTack för stridens klara låga!\nTack för allt i evighet!"   
+        ]
+    },
+    {
+        id: 263,
+        title: "Psalm 263",
+        verses: [
+            "1. Det är saligt på Jesus få tro, \noch att vara Guds barn blott av nåd.\nDet blir härligt hos Jesus få bo\noch där prisa hans trofasta råd.\n//: Gud ske lov, Gud ske tack,\natta hans salighet även är min ://",
+            "2. Det är saligt att samlas i tro\nomkring ordet till bön och till sång.\nO hur härligt det blir vid Guds tron\natt få stå bland de frälsta en gång!\n//: Gud ske lov, Gud ske tack,\natta hans salighet även är min ://",
+            "3. Det är saligt att tro, fast vi än\nej fått skåda vår Frälsare kär.\nMen en gång skall han komma igen,\nvi får se honom såsom han är.\n//: Gud ske lov, Gud ske tack,\natta hans salighet även är min ://"
+        ]
+    },
+    {
+        id: 271,
+        title: "Psalm 271",
+        verses: [
+            "1. Närmare, Gud, till dig,\nnärmare dig!\nOm det än blir ett kors\nsom lyfter mig,\nsjunger jag innerlig:\nNärmare, Gud, till dig,\nnärmare, Gud, till dig,\nnärmare dig.",
+            "2. Döljer för pilgrim trött\nsolen sitt sken,\nblir än min huvudgärd\nhårdaste sten,\nskall jag dock drömma mig\nnärmare, Gud, till dig,\nnärmare, Gud, till dig,\nnärmare dig.",
+            "3. Där skall all nåd du gav\nstå för min syn\nsåsom en stege rest\nupp emot skyn.\nÄnglar där vinkar mig\nnärmare, Gud, till dig,\nnärmare, Gud, till dig,\nnärmare dig.",
+            "4. Vaknad, jag reser glad\nstenen så hård\nsåsom mitt Betel upp\nminnet till vård.\nNatten ju förde mig\nnärmare, Gud, till dig,\nnärmare, Gud, till dig,\nnärmare dig.",
+            "5. Sist, när jag ställa får\nuppåt min färd\noch jag har bakom mig\njordlivets värld,\nviskar det än i mig:\nNärmare, Gud, till dig,\nnärmare, Gud, till dig,\nnärmare dig!"
+        ]
+    },
+    {
+        id: 275,
+        title: "Psalm 275",
+        verses: [
+            "1. Led milda ljus, i dunkel dimfylld värld\nLed du mig fram\nMörk natten är, långt från mitt hem min färd\nLed du mig fram\nStyr du min fot. Min fjärran framtids stig \njag vill ej se, ett steg är nog för mig", 
+            "2. Ej alltid, Herre, var min bön att du mig ledde fram\nJag ville se och välja själv\nMen nu; led du mig fram\nStolt av min kraft jag njöt på farligt spår\nAv stundens glans\nGlöm bort de gångna år", 
+            "3. Din kraft dock bar och framgent bära skall\nOm du blott styr\nHän över hed och stup och forsars fall\ntills natten flyr\noch dina änglar ler i morgonskyn\nsom förr en gång de log i banets syn"
+        ]
+    },
+    {
+        id: 278,
+        title: "Psalm 278",
+        verses: [
+            "1. Frälsare, tag min hand,\nfostra mig så,\natt jag i dina spår\nalltid må gå.\nHerre, för varje dag\nmig till ditt hjärta drag,\natt i din sanning jag\nfast måtte stå.",
+            "2. Klippan som brast för mig\nvatten mig ger.\nManna för varje dag\nän faller ner.\nJesus mig håller kär,\nomsorg om mig han bär.\nJa, uti allting här\nkärlek han ger.",
+            "3. Jesus, i dina spår\nfölja jag vill.\nLåt mig i lust och nöd\nhöra dig till.\nVad kan jag önska mer?\nDu som behovet ser,\nallt vad mig fattas ger,\nmera därtill."
+        ]
+    },
+    {
+        id: 282,
+        title: "Psalm 282",
+        verses: [
+            "1. Bar du min börda, led du min nöd,\ngick du för mej i den bittraste död,\nHerre, vem är jag, om jag försmår\n//: villigt att följa den stig där du går ://",
+            "2. Var du i ångest, kvaldes din själ,\nblödde den djupt för mitt eviga väl,\nskulle jag rädas smälek och spe,\n//: därför att dig jag min kärlek vill ge? ://",
+            "3. Herre, förlät du synden jag gjort,\nöppnade du mej en frälsningens port,\ngav du min själ en sällhetens hamn,\n//: skulle jag då ej bekänna ditt namn ://",
+            "4. Sprängde du dödens bojor och band,\nkom du med ljus från de levandes land,\nslog du den död som väntar ock mej,\n//: Herre, till vem skall jag gå utom dej? ://"
+        ]
+    },
+    {
+        id: 297,
+        title: "Psalm 297",
+        verses: [
+            "1. Härlig är jorden, härlig är Guds himmel,\nskön är själarnas pilgrimsgång.\nGenom de fagra riken på jorden\ngå vi till paradis med sång.",
+            "2. Tidevarv komma, tidevarv försvinna,\nsläkten följa släktens gång.\nAldrig förstummas tonen från himlen\ni själens glada pilgrimssång.",
+            "3. Änglar den sjöngo först för markens herdar.\nSkönt från själ till själ det ljöd:\nMänniska, gläd dig, Frälsarn är kommen,\nfrid över jorden Herren bjöd."
+        ]
+    },
+    {
+        id: 298,
+        title: "Psalm 298",
+        verses: [
+            "1. Gud, ditt folk är vandringsfolket. Själv du mitt ibland oss går.\nDu oss leder, du oss stärker, när vår väg blir lång och svår.\nBröd från himlen, bröd från himlen \nur din fadershand vi får, ur din fadershand vi får.",
+            "2. Låt kristallklar källan strömma med det vatten som ger liv.\nBli vår eldstod under natten, och om dagen molnstod bli.\nStarka klippa, starka klippa\nvar vår tillflykt och vår frid, var vår tillflykt och vår frid.",
+            "3. När jag når de mörka vatten, över dem skall färdas ut,\nräds jag ej. På andra sidan finns en värld av sång och ljus.\nDär skall lovsång, Där skall lovsång\nstiga stark som havets brus, stiga stark som havets brus."
         ]
     },
     {
