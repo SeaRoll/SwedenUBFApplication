@@ -1,5 +1,15 @@
 const psalms = [
     {
+        id: 2,
+        title: "Psalm 2",
+        verses: [
+            "1. Herren, vår Gud, är en konung i makt och i ära.\nKom, alla folk, att vårt eviga lov honom bära.\nHimmel och jord bärs av hans kraftiga ord.\nAllt han sitt hägn vill beskära.", 
+            "2. Pris vare Herren, som allting så härligt bereder, \nsom oss har skapat och blickar i nåd till oss neder, \nsom i vår nöd skänker oss välfärd och bröd \noch sitt beskydd kring oss breder.",
+            "3. Herren, vår Gud, vare lov som en Far för oss blivit, \nsom för vår synd har sin Son uppå korset utgivit, \nsom på vår jord leder med Ande och ord \ndem som åt Kristus sig givit.", 
+            "4. Herren, vår salighets Gud, må vi prisa och tjäna. \nKraften är hans och all vishet och ära allena.\nPris ske hans namn, att han oss vill i sin famn \nalla med Kristus förena."
+        ]
+    },
+    {
         id: 3,
         title: "Psalm 3",
         verses: [
