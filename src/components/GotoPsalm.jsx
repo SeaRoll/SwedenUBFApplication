@@ -6,7 +6,7 @@ import psalms from "../globalvars/psalms";
     GotoPsalm
     ----------
     Loads Psalm Search Form by number
-    TODO: Make it look more appealing
+    TODO: Make it look more appealing, Sorting program by ID?
 */
 function GotoPsalm(props) {
 
@@ -42,7 +42,7 @@ function GotoPsalm(props) {
     }
 
     return(
-        <div className="container" style={{marginTop: "40px"}} key="ContainerKey">
+        <div className="container" style={{marginTop: "40px", marginBottom: "80px"}} key="ContainerKey">
             <form key="formKey">
             <div className="form-group" key="inputGroup">
                 <h3>Search Psalm</h3>
@@ -59,7 +59,7 @@ function GotoPsalm(props) {
 
             <ul style={{marginTop: "40px"}}>
                 {filteredPsalms.map(x => {
-                    return (<li><a href={"/psalm/"+x.id}>{x.title}</a></li>);
+                    return (<li><a href={"/psalm/"+x.id}>{x.title}</a><a className="text-secondary">{" " + x.verses[0].substring(3, 24) + "..."}</a></li>);
                 })}
             </ul>
         </div>
