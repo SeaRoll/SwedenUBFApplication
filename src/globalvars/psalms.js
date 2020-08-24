@@ -1,5 +1,15 @@
 const psalms = [
     {
+        id: 2,
+        title: "Psalm 2",
+        verses: [
+            "1. Herren, vår Gud, är en konung i makt och i ära.\nKom, alla folk, att vårt eviga lov honom bära.\nHimmel och jord bärs av hans kraftiga ord.\nAllt han sitt hägn vill beskära.", 
+            "2. Pris vare Herren, som allting så härligt bereder, \nsom oss har skapat och blickar i nåd till oss neder, \nsom i vår nöd skänker oss välfärd och bröd \noch sitt beskydd kring oss breder.",
+            "3. Herren, vår Gud, vare lov som en Far för oss blivit, \nsom för vår synd har sin Son uppå korset utgivit, \nsom på vår jord leder med Ande och ord \ndem som åt Kristus sig givit.", 
+            "4. Herren, vår salighets Gud, må vi prisa och tjäna. \nKraften är hans och all vishet och ära allena.\nPris ske hans namn, att han oss vill i sin famn \nalla med Kristus förena."
+        ]
+    },
+    {
         id: 3,
         title: "Psalm 3",
         verses: [
@@ -7,6 +17,15 @@ const psalms = [
             "2. Helig, helig, helig, sjunga helgon alla,\nsänka sina gyllne kronor för din härlighet.\nNed för dig keruber och serafer falla.\nDu var och är och blir i evighet.",
             "3. Helig, helig, helig, hög och otillgänglig\när din glans din klara som ej syndigt öga ser.\nEvig är din nåd din kärlek oförgänglig.\nAllgod till stoftets barn Du skådar ner.",
             "4. Helig, helig, helig, Herre Gud allsmäktig!\nÖver himlar, jord och hav ditt herravälde når.\nHelig, helig, helig nådefull och mäktig\nDig vi tillbedja Gud och Fader vår."
+        ]
+    },
+    {
+        id: 10,
+        title: "Psalm 10",
+        verses: [
+            "1. Lov, ära och pris, dig, vår Fader och vän,\nsom alltid oss älskat och älskar oss än!\nHalleluja, din är äran! Halleluja! Amen.\nHalleluja, din är äran! Halleluja! Amen.",
+            "2. Lov, ära och pris, dig, Guds heliga Lamm,\nsom bar våra synder på korsträdets stam!\nHalleluja, din är äran! Halleluja! Amen.\nHalleluja, din är äran! Halleluja! Amen.",
+            "3. Lov, ära och pris, dig, vår Hjälpare god,\nsom vittnar om Jesu försonande blod!\nHalleluja , din är äran! Halleluja, Amen.\nHalleluja, din är äran! Halleluja, Amen!"
         ]
     },
     {
@@ -59,6 +78,15 @@ const psalms = [
         ]
     },
     {
+        id: 46,
+        title: "Psalm 46",
+        verses: [
+            "1. Låt mig få höra om Jesus, \nskriv i mitt hjärta vart ord,\nsjung för mig sången så dyrbar, \nskönaste sång på vår jord,\nsången som änglar i natten \nsjöngo för herdar en gång:\nÄra ske Gud i det höga, \nfrihet från bojornas tvång.\nLåt mig får höra om Jesus, \nskriv i mitt hjärta vart ord,\nsjung för mig sången så dyrbar, \nskönaste sång på vår jord.",
+            "2. Säg mig det åter och åter \nhur på vår jord han gick kring,\nfrestad, föraktad och ringa, \nägande själv ingenting.\nSynderna mina dem bar han, \nsmärtorna tog han på sig,\nredo att hela och hjälpa, \nredo att uppoffra sig.\nLåt mig få höra om Jesus, \nskriv i mitt hjärta vart ord,\nsjung för mig sången så dyrbar, \nskönaste sång på vår jord.",
+            "3. Låt mig få höra om korset, \nkvalen och smärtan han led.\nVisa mig graven i berget\n där man hans kropp lade ned.\nO, vilket under av kärlek: \nDet var för mig som han dog,\ndet var för mig som han uppstod. \nHerre, min Gud, det är nog.\nLåt mig får höra om Jesus, \nskriv i mitt hjärta vart ord,\nsjung för mig sången så dyrbar, \nskönaste sång på vår jord."
+        ]
+    },
+    {
         id: 48,
         title: "Psalm 48",
         verses: [
@@ -67,6 +95,19 @@ const psalms = [
             "3. Är du bitter och besviken,\nhar ditt hjärta djupa sår,\nsäg till Jesus vad du känner,\nvåga tro att han förstår.\nHan som bar vår synd och plåga\ni sin egen kropp en gång\nälskar oss och ger oss vila,\ntänder hopp och föder sång."   
         ],
         tag: "uppståndelse"
+    },
+    {
+        id: 103,
+        title: "Psalm 103",
+        verses: [
+            "1. Bereden väg för Herran! Berg, sjunken, djup, stån opp!\nHan kommer, han som fjärran var sedd av fädrens hopp.\nRättfärdighetens förste, av Davids hus den störste.\nVälsignad vare han som kom i Herrens namn.",
+            "2. Guds folk, för dig han träder, en evig konung opp.\nStrö palmer, bred ut kläder, sjung ditt uppfyllda hopp.\nGuds löften äro sanna, nu ropa: Hosianna!\nVälsignad vare han som kom i Herrens namn.",
+            "3. Gör dina portar vida för Herrens härlighet.\nSe, folken kring dig bida att nå din salighet.\nKring jordens länder alla skall denna lovsång skalla:\nVälsignad vare han som kom i Herrens namn.",
+            "4. Ej kommer han med härar och ej med ståt och prakt; \ndock ondskan han förfärar i all dess stolta makt.\nMed Andens svärd han strider och segrar, när han lider.\nVälsignad vare han som kom i Herrens namn.",
+            "5. O folk, från Herren viket i syndig lust och flärd,\ngiv akt, det helga riket ej är av denna värld,\nej av dess vise funnet, ej av dess hjältar vunnet.\nVälsignad vare han som kom i Herrens namn.",
+            "6. Den tron, som han bestiger, är i hans Faders hus.\nDet välde han inviger är kärlek blott och ljus.\nHans lov av späda munnar blott nåd och frid förkunnar.\nVälsignad vare han som kom i Herrens namn."
+        ],
+        tag: "advent"
     },
     {
         id: 114,
@@ -107,6 +148,48 @@ const psalms = [
             "4. Se, stjärnans ljus går framför dem\ntill djurens stall vid Betlehem,\ndär färdens mål de når till sist:\nMaria och Josef med Frälsaren Krist.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
             "5. För vise män som ridit långt\nsyns dörren låg och rummet trångt.\nMen vise män sig böjer ner\noch kungliga gåvor barnet de ger.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehems stad!",
             "6. Ett barn är född till Guds behag.\nNu firar vi en glädjens dag\nmed fröjd och sång i Herrens hus\ni Betlehemsstjärnans eviga ljus.\nVar glad, var glad, var glad, var glad!\nKristus är född i Betlehem stad!"
+        ]
+    },
+    {
+        id: 148,
+        title: "Psalm 148",
+        verses: [
+            "1. Jesus Kristus är uppstånden!\nSjung det ut kring världen all.\nJord och himmel nu må fröjdas.\nSjälva döden bragts på fall.\n//: Se, han lever, se han lever\noch han evigt leva skall ://",
+            "2. Jesus Kristus är uppstånden!\nNu han kungaspiran bär.\nHan vid Faderns högra sida\nalla världars Herre är.\n//: Se, han lever, se han lever,\nhan är alltid med oss här ://",
+            "3. Jesus Kristus är uppstånden!\nDöden nu sin udd har mist.\nHan som gravens bommar sprängde\nskall ock väcka oss till sist.\n//: Se han lever, se han lever,\nprisad vare Herren Krist ://"
+    ],
+        tag: "uppståndelse"
+    },
+    {
+        id: 153,
+        title: "Psalm 153",
+        verses: [
+            "1. Livet vann, dess namn är Jesus, halleluja,\nhan var död, men se, han lever, halleluja.\nDödens portar öppnar han, halleluja,\nnyckeln ligger i hans hand. Halleluja.",
+            "2. Vad är murar, vad är gravar? Halleluja.\nHan är med oss alla dagar, halleluja.\nEn är Herren, en är tron, halleluja,\nett är brödet på hans bord. Halleluja.",
+            "3. Brödet bryts och vinet delas, halleluja,\nför att världen skall få leva. Halleluja.\nÖppnade är Guds förråd, halleluja,\nkällan flödar som var dold. Halleluja.",
+            "4. Jesus dog, då dog vi alla, halleluja,\ntill att utge oss för andra, halleluja.\nJesus uppstod. Också vi, halleluja,\nuppstod då till evigt liv. Halleluja"
+        ],
+        tag: "uppståndelse"
+    },
+    {
+        id: 168,
+        title: "Psalm 168",
+        verses: [
+            "1. Kom inför Herren med tacksamhet gamla och unga,\nkom att vår himmelske Fader av hjärtat lovsjunga.\nVidga dig, bröst, lyft dig mot himlen, min röst,\njubla Guds ära, min tunga!",
+            "2. Härliga gåvor har skänkts oss ur Skaparens händer:\nsommarens ymnighet strödde han kring våra stränder,\nsyndares jord dukar han liksom ett bord,\nmanna från himmelen sänder.",
+            "3. Gud har gjort under och rikligt välsignat vår möda.\nVäxten han givit, och jorden har burit sin gröda.\nÄn mera gott, rikare gåvor jag fått,\nsjälen till glädje och föda.",
+            "4. Innan jag ropar om nåd är han redo att svara.\nSaligt det är i hans heliga tempel att vara.\nHan med sitt ord mättar sin hungrande hjord,\nleder till källan den klara.",
+            "5. Kom, Guds församling, och gläd dig att Herren är nära.\nSjung, alla himlar, med jorden den Eviges ära.\nHjälp oss i dag, Fader, att dig till behag\nheliga tackoffer bära."
+        ]
+    },
+    {
+        id: 172,
+        title: "Psalm 172",
+        verses: [
+            "1. De skall gå till den heliga staden,\nde skall samlas i himlen en gång.\nDe skall häpna gå in genom porten\ntill en okänd värld,\ntill ett annat liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
+            "2 De skall minnas den grönskande jorden\noch de somrar som blommade där.\nDe skall glömma det onda och svåra\ni en gammal värld,\ni ett svunnet liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny jublande sång.",
+            "3. De skall möta de trofasta vänner\nsom de miste på jorden en gång.\nDe skall leka med änglar och helgon\ni Guds paradis.\nDe skall dansa där.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
+            "4. De skall möta den levande Herren,\nde skall se honom sådan han är\noch förvandlas i ljus till hans likhet.\nDeras hopp han var,\nderas liv han är.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång."
         ]
     },
     {
