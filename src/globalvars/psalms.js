@@ -172,6 +172,27 @@ const psalms = [
         tag: "uppståndelse"
     },
     {
+        id: 168,
+        title: "Psalm 168",
+        verses: [
+            "1. Kom inför Herren med tacksamhet gamla och unga,\nkom att vår himmelske Fader av hjärtat lovsjunga.\nVidga dig, bröst, lyft dig mot himlen, min röst,\njubla Guds ära, min tunga!",
+            "2. Härliga gåvor har skänkts oss ur Skaparens händer:\nsommarens ymnighet strödde han kring våra stränder,\nsyndares jord dukar han liksom ett bord,\nmanna från himmelen sänder.",
+            "3. Gud har gjort under och rikligt välsignat vår möda.\nVäxten han givit, och jorden har burit sin gröda.\nÄn mera gott, rikare gåvor jag fått,\nsjälen till glädje och föda.",
+            "4. Innan jag ropar om nåd är han redo att svara.\nSaligt det är i hans heliga tempel att vara.\nHan med sitt ord mättar sin hungrande hjord,\nleder till källan den klara.",
+            "5. Kom, Guds församling, och gläd dig att Herren är nära.\nSjung, alla himlar, med jorden den Eviges ära.\nHjälp oss i dag, Fader, att dig till behag\nheliga tackoffer bära."
+        ]
+    },
+    {
+        id: 172,
+        title: "Psalm 172",
+        verses: [
+            "1. De skall gå till den heliga staden,\nde skall samlas i himlen en gång.\nDe skall häpna gå in genom porten\ntill en okänd värld,\ntill ett annat liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
+            "2 De skall minnas den grönskande jorden\noch de somrar som blommade där.\nDe skall glömma det onda och svåra\ni en gammal värld,\ni ett svunnet liv.\nDe skall sjunga, sjunga, ja sjunga\nen ny jublande sång.",
+            "3. De skall möta de trofasta vänner\nsom de miste på jorden en gång.\nDe skall leka med änglar och helgon\ni Guds paradis.\nDe skall dansa där.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång.",
+            "4. De skall möta den levande Herren,\nde skall se honom sådan han är\noch förvandlas i ljus till hans likhet.\nDeras hopp han var,\nderas liv han är.\nDe skall sjunga, sjunga, ja sjunga\nen ny, jublande sång."
+        ]
+    },
+    {
         id: 211,
         title: "Psalm 211",
         verses: [
